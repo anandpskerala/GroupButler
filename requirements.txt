@@ -8,3 +8,4 @@ make
 unzip
 curl
 libcurl4-gnutls-dev
+https://raw.githubusercontent.com/RememberTheAir/GroupButler/master/install.sh
