@@ -1,1 +1,10 @@
-
+libreadline-dev
+redis-server
+lua5.2
+liblua5.2dev
+libssl-dev
+git
+make
+unzip
+curl
+libcurl4-gnutls-dev
