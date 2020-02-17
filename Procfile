@@ -1,1 +1,1 @@
-worker: bash launch.sh
+worker: lua bot.lua
